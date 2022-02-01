@@ -2,7 +2,7 @@
 
 *This profile README is still being worked on...*
 
-## Known Technologies
+## 🧰  Known Technologies
 
 **Programming Languages**:
  - Kotlin
@@ -20,7 +20,7 @@
   - React
   - Tailwind
 
-## Featured Projects
+## ✨ Featured Projects
 See below for our pinned favorite open-sourced projects.
 
 # ⬇️ ⬇️ ⬇️ ⬇️ ⬇️
