@@ -21,4 +21,6 @@
   - Tailwind
 
 ## Featured Projects
-TODO
+See below for our pinned favorite open-sourced projects.
+
+# ⬇️ ⬇️ ⬇️ ⬇️ ⬇️
