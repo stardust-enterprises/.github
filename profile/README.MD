@@ -6,6 +6,8 @@
 
 We are **Stardust**, an organization that firmly believes in sharing and learning, especially doing so via open-source software.
 
+Join us on our Discord Community Server: [discord.stardustenterprises.fr](https://discord.stardustenterprises.fr/)
+
 ## 🧰  Known Technologies
 
 **💻 Programming Languages**:
