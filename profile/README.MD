@@ -16,10 +16,10 @@ Join us on our Discord Community Server: [discord.stardustenterprises.fr](https:
 * [TypeScript](https://www.typescriptlang.org/) - a web programming must-have nowadays
 * [Rust](https://rust-lang.org) - a secure-by-design platform from which we hope to innovate and build elegant and cross-platform projects
 
-**🔧 Web Frameworks**:
+**🔧 Web Utilities**:
 * [React](https://reactjs.org/)
 * [Mantine](https://mantine.dev)
-* [Tailwind](https://tailwindcss.com/) *(not really a framework)*
+* [Tailwind](https://tailwindcss.com/)
 
 ## Our Members
 Our members are what makes this organization so ***cool***, so we would appreciate it if you could go check them out, they make some pretty cool stuff:
