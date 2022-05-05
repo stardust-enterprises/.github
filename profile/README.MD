@@ -12,7 +12,7 @@ Join us on our Discord Community Server: [discord.stardustenterprises.fr](https:
 
 **💻 Programming Languages**:
 * [Java](https://adoptium.net) - extensive knowledge of the Java programming language and its specifications, as well as its underlying priciples through the JVM Bytecode layer, as well as some obfuscation techniques
-* [Kotlin](https://kotlinlang.org) - the kooler java:tm:; a language loved by many of our developers for its syntax, typing, null-safety, and much more, allowing for more ease-of-use and increased developer productivity
+* [Kotlin](https://kotlinlang.org) - the kooler java:tm:; a language loved by many of our developers for its syntax, typing, null-safety, and much more, allowing for better ease-of-use and increased developer productivity
 * [TypeScript](https://www.typescriptlang.org/) - a web programming must-have nowadays
 * [Rust](https://rust-lang.org) - a secure-by-design platform from which we hope to innovate and build elegant and cross-platform projects
 
